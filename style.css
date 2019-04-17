@@ -1,0 +1,33 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, #dfe6e9 , #636e72); /* Standard syntax */
+}
+
+h1 {
+    font: 100 3.5em 'Montserrat', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+
+}
+
+h3 {
+	font: 100 1em 'Open Sans', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+
+h2 {
+    padding-top: 3em;
+}
